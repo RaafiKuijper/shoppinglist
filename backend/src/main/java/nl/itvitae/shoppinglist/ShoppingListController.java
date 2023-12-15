@@ -15,8 +15,10 @@ public class ShoppingListController {
     public List<String> get() {
         return List.of(
                 // this is a comment
+
                 "boter",
                 "kaas",
+                "spek",
                 "scharreleieren",
                 "biologische sinaasappelsap"
         );
