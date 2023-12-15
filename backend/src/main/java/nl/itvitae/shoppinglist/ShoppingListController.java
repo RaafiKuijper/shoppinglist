@@ -17,7 +17,7 @@ public class ShoppingListController {
             // this is a silly comment
             "boter",
             "kaas",
-            "eieren"
+            "spek"
         );
     }
 }
