@@ -14,7 +14,8 @@ public class ShoppingListController {
     @GetMapping
     public List<String> get() {
         return List.of(
-            // this is a silly comment
+                // this is a comment
+
                 "boter",
                 "kaas",
                 "spek",
